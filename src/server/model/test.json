@@ -1,0 +1,760 @@
+{
+      "cities": [
+          {
+              "districts": [
+                  {
+                      "fullName": "白云区",
+                      "id": 42022,
+                      "name": "白云"
+                  },
+                  {
+                      "fullName": "从化区",
+                      "id": 42029,
+                      "name": "从化"
+                  },
+                  {
+                      "fullName": "番禺区",
+                      "id": 42024,
+                      "name": "番禺"
+                  },
+                  {
+                      "fullName": "海珠区",
+                      "id": 42065,
+                      "name": "海珠"
+                  },
+                  {
+                      "fullName": "花都区",
+                      "id": 42025,
+                      "name": "花都"
+                  },
+                  {
+                      "fullName": "黄埔区",
+                      "id": 42023,
+                      "name": "黄埔"
+                  },
+                  {
+                      "fullName": "荔湾区",
+                      "id": 42063,
+                      "name": "荔湾"
+                  },
+                  {
+                      "fullName": "南沙区",
+                      "id": 42026,
+                      "name": "南沙"
+                  },
+                  {
+                      "fullName": "天河区",
+                      "id": 42066,
+                      "name": "天河"
+                  },
+                  {
+                      "fullName": "越秀区",
+                      "id": 42064,
+                      "name": "越秀"
+                  },
+                  {
+                      "fullName": "增城区",
+                      "id": 42028,
+                      "name": "增城"
+                  }
+              ],
+              "fullName": "广州市",
+              "id": 30021,
+              "name": "广州"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "潮安县",
+                      "id": 41423,
+                      "name": "潮安"
+                  },
+                  {
+                      "fullName": "饶平县",
+                      "id": 41424,
+                      "name": "饶平"
+                  },
+                  {
+                      "fullName": "湘桥区",
+                      "id": 41422,
+                      "name": "湘桥"
+                  }
+              ],
+              "fullName": "潮州市",
+              "id": 30148,
+              "name": "潮州"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "东莞市",
+                      "id": 41417,
+                      "name": "东莞"
+                  }
+              ],
+              "fullName": "东莞市",
+              "id": 30022,
+              "name": "东莞"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "高明区",
+                      "id": 40725,
+                      "name": "高明"
+                  },
+                  {
+                      "fullName": "南海区",
+                      "id": 40291,
+                      "name": "南海"
+                  },
+                  {
+                      "fullName": "三水区",
+                      "id": 40057,
+                      "name": "三水"
+                  },
+                  {
+                      "fullName": "顺德区",
+                      "id": 40292,
+                      "name": "顺德"
+                  },
+                  {
+                      "fullName": "禅城区",
+                      "id": 40290,
+                      "name": "禅城"
+                  }
+              ],
+              "fullName": "佛山市",
+              "id": 30086,
+              "name": "佛山"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "东源县",
+                      "id": 40363,
+                      "name": "东源"
+                  },
+                  {
+                      "fullName": "和平县",
+                      "id": 40359,
+                      "name": "和平"
+                  },
+                  {
+                      "fullName": "连平县",
+                      "id": 40358,
+                      "name": "连平"
+                  },
+                  {
+                      "fullName": "龙川县",
+                      "id": 40357,
+                      "name": "龙川"
+                  },
+                  {
+                      "fullName": "源城区",
+                      "id": 40355,
+                      "name": "源城"
+                  },
+                  {
+                      "fullName": "紫金县",
+                      "id": 40356,
+                      "name": "紫金"
+                  }
+              ],
+              "fullName": "河源市",
+              "id": 30023,
+              "name": "河源"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "博罗县",
+                      "id": 40340,
+                      "name": "博罗"
+                  },
+                  {
+                      "fullName": "惠城区",
+                      "id": 41839,
+                      "name": "惠城"
+                  },
+                  {
+                      "fullName": "惠东县",
+                      "id": 40341,
+                      "name": "惠东"
+                  },
+                  {
+                      "fullName": "惠阳区",
+                      "id": 41840,
+                      "name": "惠阳"
+                  },
+                  {
+                      "fullName": "龙门县",
+                      "id": 40342,
+                      "name": "龙门"
+                  }
+              ],
+              "fullName": "惠州市",
+              "id": 30149,
+              "name": "惠州"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "恩平市",
+                      "id": 41168,
+                      "name": "恩平"
+                  },
+                  {
+                      "fullName": "鹤山市",
+                      "id": 41167,
+                      "name": "鹤山"
+                  },
+                  {
+                      "fullName": "江海区",
+                      "id": 41163,
+                      "name": "江海"
+                  },
+                  {
+                      "fullName": "开平市",
+                      "id": 41166,
+                      "name": "开平"
+                  },
+                  {
+                      "fullName": "蓬江区",
+                      "id": 40726,
+                      "name": "蓬江"
+                  },
+                  {
+                      "fullName": "台山市",
+                      "id": 41165,
+                      "name": "台山"
+                  },
+                  {
+                      "fullName": "新会区",
+                      "id": 41164,
+                      "name": "新会"
+                  }
+              ],
+              "fullName": "江门市",
+              "id": 30024,
+              "name": "江门"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "惠来县",
+                      "id": 41428,
+                      "name": "惠来"
+                  },
+                  {
+                      "fullName": "揭东区",
+                      "id": 41426,
+                      "name": "揭东"
+                  },
+                  {
+                      "fullName": "揭西县",
+                      "id": 41427,
+                      "name": "揭西"
+                  },
+                  {
+                      "fullName": "普宁市",
+                      "id": 41429,
+                      "name": "普宁"
+                  },
+                  {
+                      "fullName": "榕城区",
+                      "id": 41425,
+                      "name": "榕城"
+                  }
+              ],
+              "fullName": "揭阳市",
+              "id": 30150,
+              "name": "揭阳"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "电白区",
+                      "id": 41817,
+                      "name": "电白"
+                  },
+                  {
+                      "fullName": "高州市",
+                      "id": 41822,
+                      "name": "高州"
+                  },
+                  {
+                      "fullName": "化州市",
+                      "id": 41823,
+                      "name": "化州"
+                  },
+                  {
+                      "fullName": "茂南区",
+                      "id": 41181,
+                      "name": "茂南"
+                  },
+                  {
+                      "fullName": "信宜市",
+                      "id": 41824,
+                      "name": "信宜"
+                  }
+              ],
+              "fullName": "茂名市",
+              "id": 30025,
+              "name": "茂名"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "大埔县",
+                      "id": 40345,
+                      "name": "大埔"
+                  },
+                  {
+                      "fullName": "丰顺县",
+                      "id": 40346,
+                      "name": "丰顺"
+                  },
+                  {
+                      "fullName": "蕉岭县",
+                      "id": 40349,
+                      "name": "蕉岭"
+                  },
+                  {
+                      "fullName": "梅江区",
+                      "id": 40343,
+                      "name": "梅江"
+                  },
+                  {
+                      "fullName": "梅县区",
+                      "id": 40344,
+                      "name": "梅县"
+                  },
+                  {
+                      "fullName": "平远县",
+                      "id": 40348,
+                      "name": "平远"
+                  },
+                  {
+                      "fullName": "五华县",
+                      "id": 40347,
+                      "name": "五华"
+                  },
+                  {
+                      "fullName": "兴宁市",
+                      "id": 40350,
+                      "name": "兴宁"
+                  }
+              ],
+              "fullName": "梅州市",
+              "id": 30112,
+              "name": "梅州"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "佛冈县",
+                      "id": 41410,
+                      "name": "佛冈"
+                  },
+                  {
+                      "fullName": "连南瑶族自治县",
+                      "id": 41413,
+                      "name": "连南"
+                  },
+                  {
+                      "fullName": "连山壮族瑶族自治县",
+                      "id": 41412,
+                      "name": "连山"
+                  },
+                  {
+                      "fullName": "连州市",
+                      "id": 41416,
+                      "name": "连州"
+                  },
+                  {
+                      "fullName": "清城区",
+                      "id": 41409,
+                      "name": "清城"
+                  },
+                  {
+                      "fullName": "清新区",
+                      "id": 41414,
+                      "name": "清新"
+                  },
+                  {
+                      "fullName": "阳山县",
+                      "id": 41411,
+                      "name": "阳山"
+                  },
+                  {
+                      "fullName": "英德市",
+                      "id": 41415,
+                      "name": "英德"
+                  }
+              ],
+              "fullName": "清远市",
+              "id": 30151,
+              "name": "清远"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "潮南区",
+                      "id": 40276,
+                      "name": "潮南"
+                  },
+                  {
+                      "fullName": "潮阳区",
+                      "id": 40275,
+                      "name": "潮阳"
+                  },
+                  {
+                      "fullName": "澄海区",
+                      "id": 40277,
+                      "name": "澄海"
+                  },
+                  {
+                      "fullName": "金平区",
+                      "id": 40273,
+                      "name": "金平"
+                  },
+                  {
+                      "fullName": "龙湖区",
+                      "id": 40272,
+                      "name": "龙湖"
+                  },
+                  {
+                      "fullName": "南澳县",
+                      "id": 40289,
+                      "name": "南澳"
+                  },
+                  {
+                      "fullName": "濠江区",
+                      "id": 40274,
+                      "name": "濠江"
+                  }
+              ],
+              "fullName": "汕头市",
+              "id": 30026,
+              "name": "汕头"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "城区",
+                      "id": 40351,
+                      "name": "城区"
+                  },
+                  {
+                      "fullName": "海丰县",
+                      "id": 40352,
+                      "name": "海丰"
+                  },
+                  {
+                      "fullName": "陆丰市",
+                      "id": 40354,
+                      "name": "陆丰"
+                  },
+                  {
+                      "fullName": "陆河县",
+                      "id": 40353,
+                      "name": "陆河"
+                  }
+              ],
+              "fullName": "汕尾市",
+              "id": 30152,
+              "name": "汕尾"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "乐昌市",
+                      "id": 40261,
+                      "name": "乐昌"
+                  },
+                  {
+                      "fullName": "南雄市",
+                      "id": 40262,
+                      "name": "南雄"
+                  },
+                  {
+                      "fullName": "曲江区",
+                      "id": 42032,
+                      "name": "曲江"
+                  },
+                  {
+                      "fullName": "仁化县",
+                      "id": 42034,
+                      "name": "仁化"
+                  },
+                  {
+                      "fullName": "乳源瑶族自治县",
+                      "id": 42036,
+                      "name": "乳源"
+                  },
+                  {
+                      "fullName": "始兴县",
+                      "id": 42033,
+                      "name": "始兴"
+                  },
+                  {
+                      "fullName": "翁源县",
+                      "id": 42035,
+                      "name": "翁源"
+                  },
+                  {
+                      "fullName": "武江区",
+                      "id": 42030,
+                      "name": "武江"
+                  },
+                  {
+                      "fullName": "新丰县",
+                      "id": 40260,
+                      "name": "新丰"
+                  },
+                  {
+                      "fullName": "浈江区",
+                      "id": 42031,
+                      "name": "浈江"
+                  }
+              ],
+              "fullName": "韶关市",
+              "id": 30027,
+              "name": "韶关"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "宝安区",
+                      "id": 40266,
+                      "name": "宝安"
+                  },
+                  {
+                      "fullName": "福田区",
+                      "id": 40264,
+                      "name": "福田"
+                  },
+                  {
+                      "fullName": "龙岗区",
+                      "id": 40267,
+                      "name": "龙岗"
+                  },
+                  {
+                      "fullName": "罗湖区",
+                      "id": 40263,
+                      "name": "罗湖"
+                  },
+                  {
+                      "fullName": "南山区",
+                      "id": 40265,
+                      "name": "南山"
+                  },
+                  {
+                      "fullName": "盐田区",
+                      "id": 40268,
+                      "name": "盐田"
+                  }
+              ],
+              "fullName": "深圳市",
+              "id": 30087,
+              "name": "深圳"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "江城区",
+                      "id": 40364,
+                      "name": "江城"
+                  },
+                  {
+                      "fullName": "阳春市",
+                      "id": 41408,
+                      "name": "阳春"
+                  },
+                  {
+                      "fullName": "阳东县",
+                      "id": 41407,
+                      "name": "阳东"
+                  },
+                  {
+                      "fullName": "阳西县",
+                      "id": 40365,
+                      "name": "阳西"
+                  }
+              ],
+              "fullName": "阳江市",
+              "id": 30153,
+              "name": "阳江"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "罗定市",
+                      "id": 42641,
+                      "name": "罗定"
+                  },
+                  {
+                      "fullName": "新兴县",
+                      "id": 41431,
+                      "name": "新兴"
+                  },
+                  {
+                      "fullName": "郁南县",
+                      "id": 41432,
+                      "name": "郁南"
+                  },
+                  {
+                      "fullName": "云安县",
+                      "id": 42640,
+                      "name": "云安"
+                  },
+                  {
+                      "fullName": "云城区",
+                      "id": 41430,
+                      "name": "云城"
+                  }
+              ],
+              "fullName": "云浮市",
+              "id": 30028,
+              "name": "云浮"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "赤坎区",
+                      "id": 41169,
+                      "name": "赤坎"
+                  },
+                  {
+                      "fullName": "雷州市",
+                      "id": 41179,
+                      "name": "雷州"
+                  },
+                  {
+                      "fullName": "廉江市",
+                      "id": 41178,
+                      "name": "廉江"
+                  },
+                  {
+                      "fullName": "麻章区",
+                      "id": 41175,
+                      "name": "麻章"
+                  },
+                  {
+                      "fullName": "坡头区",
+                      "id": 41174,
+                      "name": "坡头"
+                  },
+                  {
+                      "fullName": "遂溪县",
+                      "id": 41176,
+                      "name": "遂溪"
+                  },
+                  {
+                      "fullName": "吴川市",
+                      "id": 41180,
+                      "name": "吴川"
+                  },
+                  {
+                      "fullName": "霞山区",
+                      "id": 41173,
+                      "name": "霞山"
+                  },
+                  {
+                      "fullName": "徐闻县",
+                      "id": 41177,
+                      "name": "徐闻"
+                  }
+              ],
+              "fullName": "湛江市",
+              "id": 30281,
+              "name": "湛江"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "德庆县",
+                      "id": 41836,
+                      "name": "德庆"
+                  },
+                  {
+                      "fullName": "鼎湖区",
+                      "id": 41832,
+                      "name": "鼎湖"
+                  },
+                  {
+                      "fullName": "端州区",
+                      "id": 41831,
+                      "name": "端州"
+                  },
+                  {
+                      "fullName": "封开县",
+                      "id": 41835,
+                      "name": "封开"
+                  },
+                  {
+                      "fullName": "高要市",
+                      "id": 41837,
+                      "name": "高要"
+                  },
+                  {
+                      "fullName": "广宁县",
+                      "id": 41833,
+                      "name": "广宁"
+                  },
+                  {
+                      "fullName": "怀集县",
+                      "id": 41834,
+                      "name": "怀集"
+                  },
+                  {
+                      "fullName": "四会市",
+                      "id": 41838,
+                      "name": "四会"
+                  }
+              ],
+              "fullName": "肇庆市",
+              "id": 30154,
+              "name": "肇庆"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "中山市",
+                      "id": 41421,
+                      "name": "中山"
+                  }
+              ],
+              "fullName": "中山市",
+              "id": 30200,
+              "name": "中山"
+          },
+          {
+              "districts": [
+                  {
+                      "fullName": "斗门区",
+                      "id": 40270,
+                      "name": "斗门"
+                  },
+                  {
+                      "fullName": "金湾区",
+                      "id": 40271,
+                      "name": "金湾"
+                  },
+                  {
+                      "fullName": "香洲区",
+                      "id": 40269,
+                      "name": "香洲"
+                  }
+              ],
+              "fullName": "珠海市",
+              "id": 30029,
+              "name": "珠海"
+          }
+      ],
+      "fullName": "广东省",
+      "id": 20004,
+      "name": "广东",
+      "shortName": "粤"
+  },

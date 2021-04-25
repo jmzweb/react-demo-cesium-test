@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="auther" content="sougou IT progress"/>
+    <meta name="description" content="watch,H5,child"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!--移动web页面自动探测电话号码-->
+    <meta name="format-detection"  content="telephone=no">
+    <meta  http-equiv="x-rim-auto-match" content="none">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#e9476c-translucent">
+
+    <meta name="applicable-device"content="pc,mobile"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+<!--    <link rel="shortcut icon" href="/static/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">-->
+    <title>小程序h5</title>
+    <style>
+        iframe {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+<iframe src="about:back" id="iframe"></iframe>
+<script type="text/javascript">
+
+  var _script_ = document.createElement("script"), htmlData = pageName("htmlData"), iframe = document.querySelectorAll('#iframe')
+  _script_.src = "https://js.cdn.aliyun.dcloud.net.cn/dev/uni-app/uni.webview.1.5.2.js"
+  document.head.append(_script_)
+  // 小程序
+  if (/miniProgram/i.test(navigator.userAgent) && /micromessenger/i.test(navigator.userAgent)) {
+    let _mini_script_ = document.createElement("script")
+    _mini_script_.src = "https://res.wx.qq.com/open/js/jweixin-1.4.0.js"
+    document.head.append(_mini_script_)
+    if (pageName("callback")) {
+      window.postMessage({data: {msg: "close windows"} })
+      wx.miniProgram.navigateTo({url: '/pages/index/index'})
+    }
+  }
+
+
+  if (pageName("htmlData")) {
+    // 把文件放到div中，并开始执行
+    var _div = document.createElement("div")
+    _div.innerHTML = decodeURIComponent(pageName("htmlData"))
+
+    document.body.append(_div)
+    // var _scriptArr = document.querySelectorAll("script")
+    // var _script = document.createElement("script")
+    // _script.innerHTML = _scriptArr[_scriptArr.length - 1].innerHTML
+    // document.head.append(_script)
+  }
+
+  if(htmlData){
+    iframe[0].contentWindow.document.write(decodeURIComponent(htmlData))
+    alert(JSON.stringify(iframe[0].contentWindow.document))
+    // iframe[0].contentWindow.location.reload(true)
+    // iframe.src = location.href
+  }
+    function pageName(name){
+      var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+      var r = window.location.search.substr(1).match(reg);
+      if (r != null) return r[2];
+      return null;
+    }
+
+
+</script>
+</body>
+</html>

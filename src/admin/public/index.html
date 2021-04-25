@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="auther" content="sougou IT progress"/>
+    <meta name="description" content="watch,H5,child"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!--移动web页面自动探测电话号码-->
+    <meta name="format-detection"  content="telephone=no">
+    <meta  http-equiv="x-rim-auto-match" content="none">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#e9476c-translucent">
+
+    <meta name="applicable-device"content="pc,mobile"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <link rel="shortcut icon" href="/static/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
+    <title>js-login-pm2-koa2</title>
+</head>
+<body>
+
+<div id="root"></div>
+
+
+<% for (var i in htmlWebpackPlugin.options.cdnArr) { %>
+    <script type="text/javascript" src="<%= htmlWebpackPlugin.options.cdnArr[i] %>"></script>
+<% }%>
+
+</body>
+</html>
